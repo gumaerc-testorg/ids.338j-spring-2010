@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information related to wind turbine blade design
   optimization.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ids-338j-multidisciplinary-system-design-optimization-spring-2010/bad11a7547e8d6c99cab7c52f5062efb_MITESD_77S10_paper01.pdf
+file: /media/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/bad11a7547e8d6c99cab7c52f5062efb_MITESD_77S10_paper01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: MITESD_77S10_paper01.pdf
 uid: bad11a75-47e8-d6c9-9cab-7c52f5062efb

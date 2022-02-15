@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource provides information related to multidisciplinary system
   design optimization (MSDO).
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ids-338j-multidisciplinary-system-design-optimization-spring-2010/24861381967d4a21b9d421a6eb6ff79b_MITESD_77S10_assn01.pdf
+file: /media/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/24861381967d4a21b9d421a6eb6ff79b_MITESD_77S10_assn01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MITESD_77S10_assn01.pdf
 uid: 24861381-967d-4a21-b9d4-21a6eb6ff79b

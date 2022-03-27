@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fcacecfe-964b-0725-dcce-260507c5b918
 resourcetype: Document
 title: MITESD_77S10_lec01.pdf
 uid: a0929d6d-3b7a-813a-2f2d-64e8a83257d5

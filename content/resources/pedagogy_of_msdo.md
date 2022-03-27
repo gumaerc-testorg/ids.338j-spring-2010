@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: b21ed354-f926-835c-a895-ba8b9befc3d7
 resourcetype: Image
 title: Pedagogy_of_MSDO.jpg
 uid: 04809309-af95-cb7a-690d-d9a378cf0310

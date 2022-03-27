@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 464f81ae-b4c5-9136-970f-d624047f6d09
 resourcetype: Document
 title: MITESD_77S10_assn05.pdf
 uid: 2dcaf124-af69-9682-d244-9fb44cc381d7

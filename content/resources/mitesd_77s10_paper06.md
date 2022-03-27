@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 49d58759-124c-d453-f726-e210489cbdde
 resourcetype: Document
 title: MITESD_77S10_paper06.pdf
 uid: b9b5c787-5a77-8f08-cd32-795a09621edd

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 49d58759-124c-d453-f726-e210489cbdde
 resourcetype: Document
 title: MITESD_77S10_pres05.pdf
 uid: 45cf86f9-d523-8087-517f-1de106bb46a3

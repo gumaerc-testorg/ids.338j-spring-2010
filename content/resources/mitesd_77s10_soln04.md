@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 464f81ae-b4c5-9136-970f-d624047f6d09
 resourcetype: Document
 title: MITESD_77S10_soln04.pdf
 uid: 7baf19da-05cb-cf9a-3967-a6d44b59d0e5

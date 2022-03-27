@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: a56d1a54-f173-ffcd-1bd3-1336cb1697c3
 resourcetype: Document
 title: MITESD_77S10_rec08.pdf
 uid: 626f48ab-c5a0-0685-8d2a-4f2b20250614

@@ -1,11 +1,12 @@
 ---
 content_type: page
-learning_resource_types: []
-ocw_type: CourseSection
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, purpose and target audience, need assessment, pedagogy,
+  detailed syllabus, physical and computational infrastructure, and grading.
+draft: false
 title: Syllabus
 uid: b21ed354-f926-835c-a895-ba8b9befc3d7
 ---
-
 [Course Description](#Course_Description)
 
 [Purpose and Target Audience](#Purpose)
@@ -24,75 +25,68 @@ uid: b21ed354-f926-835c-a895-ba8b9befc3d7
 
 [Appendix A](#Appendix_A)
 
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
 Recitations: 1 session / week, 1 hour / session
 
-Prerequisites
--------------
+## Prerequisites
 
-[18.085 Computational Science and Engineering I](/courses/18-085-computational-science-and-engineering-i-fall-2008)
+[_18.085 Computational Science and Engineering I_](/courses/18-085-computational-science-and-engineering-i-fall-2008)
 
-{{< anchor "Course_Description" >}}{{< /anchor >}}Course Description
---------------------------------------------------------------------
+## {{< anchor "Course_Description" >}}{{< /anchor >}}Course Description
 
 This course covers the following topics:
 
-*   Engineering systems modeling for design and optimization.
-*   Selection of design variables, objective functions and constraints.
-*   Overview of principles, methods and tools in multidisciplinary design optimization (MDO) for systems.
-*   Subsystem identification, development and interface design.
-*   Review of linear and non-linear constrained optimization formulations.
-*   Scalar versus vector optimization problems from systems engineering and architecting of complex systems.
-*   Heuristic search methods: Tabu search, simulated annealing, genetic algorithms.
-*   Sensitivity, tradeoff analysis, goal programming and isoperformance.
-*   Multiobjective optimization and Pareto optimality.
-*   System design for value.
-*   Specific applications from aerospace, mechanical, civil engineering and system architecture.
+- Engineering systems modeling for design and optimization.
+- Selection of design variables, objective functions and constraints.
+- Overview of principles, methods and tools in multidisciplinary design optimization (MDO) for systems.
+- Subsystem identification, development and interface design.
+- Review of linear and non-linear constrained optimization formulations.
+- Scalar versus vector optimization problems from systems engineering and architecting of complex systems.
+- Heuristic search methods: Tabu search, simulated annealing, genetic algorithms.
+- Sensitivity, tradeoff analysis, goal programming and isoperformance.
+- Multiobjective optimization and Pareto optimality.
+- System design for value.
+- Specific applications from aerospace, mechanical, civil engineering and system architecture.
 
-{{< anchor "Purpose" >}}{{< /anchor >}}Purpose and Target Audience
-------------------------------------------------------------------
+## {{< anchor "Purpose" >}}{{< /anchor >}}Purpose and Target Audience
 
 This course is offered for graduate students who are interested in the multidisciplinary design aspects of complex systems. These aspects appear frequently during the conceptual and preliminary design phases of complex new systems and products, where technical disciplines (structures, propulsion, aerodynamics, controls, optics etc…) and non-technical disciplines (lifecycle costing, manufacturing, environmental impact analysis, marketing, etc…) have to be tightly coupled in order to arrive at a competitive solution. During the product development process (PDP) both quantitative and qualitative effort streams are present, where qualitative work gives rise to quantitative questions and vice-versa. This course is mainly focused on the quantitative aspects of design and presents a unifying framework called "Multidisciplinary System Design Optimization" (MSDO). We will always attempt to show the strengths of MSDO, but also its limitations in the greater qualitative context of design. A simple way to say this is: "Conceptual design and system architecting define the design vector, quantitative, computational design attempts to populate this vector with values that will lead to a good product or system". The objective of the course is to present tools and methodologies for performing system optimization in a multidisciplinary design context. Focus will be equally strong on all three aspects of the problem: (i) the multidisciplinary character of engineering systems, (ii) design of these complex systems, and (iii) tools for optimization. A more detailed discussion of these three aspects along with working definitions can be found in Appendix A. The course content is applicable to the design of a broad range of systems including space systems, aircraft, automobiles, marine and transportation systems as well as the energy, civil architecture and telecommunications sectors, among others. This subject is designed to be fundamentally different from a traditional university optimization course.
 
 Given the multidisciplinary nature of the course, we expect significant interest from IDSS students, graduate students from the various School of Engineering departments, students enrolled in the Computation for Design and Optimization (CDO) program and potentially students from the Sloan School of Management. The course is targeted for second year graduate and Ph.D. level students.
 
-{{< anchor "Need" >}}{{< /anchor >}}Need Assessment
----------------------------------------------------
+## {{< anchor "Need" >}}{{< /anchor >}}Need Assessment
 
 This course, we believe, is an essential component of MIT offerings in system optimization. There currently is a strong and comprehensive program in optimization methods, mainly via Course 15 (Sloan), the Computation for Design and Optimization (CDO) program and the Operations Research Center (ORC). Many OR courses focus on optimizing the efficiency of operations of systems (e.g. airline schedules, inventory levels in supply chains …) rather than on optimizing their designs from an engineering perspective. Many traditional OR problems can be formulated as linear programs (LP) or mixed-integer programs (MIP) with potentially linear objectives and constraints and a convex decision space. This course, 16.888/IDS.338J, however focuses on applying optimization techniques in a multidisciplinary design context. We will cover topics such as system characterization for multidisciplinary analysis and optimization, trade-off analysis, heuristic techniques and multiobjective optimization for the design of complex, multidisciplinary systems such as aircraft, spacecraft, automobiles, buildings, transportation systems and communication networks.
 
 The current catalog of optimization courses at MIT focuses heavily on two areas: The first is linear programming (simplex, interior point methods, large scale optimization) which are widely applicable and can solve many problems in management, revenue optimization, production planning and scheduling. The second area is related to systems, which can be described by a set of continuous partial differential equations (PDE). Here convex, constrained optimization methods such as steepest gradient search, projected gradient and Newton's method are important and must be covered well. This course fills the gap in the areas of multidisciplinary design, heuristic methods and multiobjective optimization.
 
-{{< anchor "Course_and_Learning" >}}{{< /anchor >}}Course and Learning Objectives
----------------------------------------------------------------------------------
+## {{< anchor "Course_and_Learning" >}}{{< /anchor >}}Course and Learning Objectives
 
 The course
 
-*   supports MIT's offerings in the area of analysis and optimization of multidisciplinary systems during the "conceive" and "design" phases
-*   develops and codifies a prescriptive approach to multidisciplinary modeling and quantitative assessment of new or existing system/product architectures
-*   engages faculty and graduate students in the emerging research field of MDO, while providing an opportunity to anchor the CDIO (conceive-design-implement-operate) principles in the graduate curriculum
+- supports MIT's offerings in the area of analysis and optimization of multidisciplinary systems during the "conceive" and "design" phases
+- develops and codifies a prescriptive approach to multidisciplinary modeling and quantitative assessment of new or existing system/product architectures
+- engages faculty and graduate students in the emerging research field of MDO, while providing an opportunity to anchor the CDIO (conceive-design-implement-operate) principles in the graduate curriculum
 
 The students will
 
-*   learn how MSDO can support the product development process of complex,
-*   multidisciplinary engineered systems
-*   learn how to rationalize and quantify a system architecture or product design problem by selecting appropriate objective functions, design parameters and constraints
-*   subdivide a complex system into smaller disciplinary models, manage their interfaces and reintegrate them into an overall system model
-*   be able to use gradient-based numerical optimization algorithms, e.g. sequential quadratic programming (SQP) and various modern heuristic optimization techniques such as simulated annealing (SA) or genetic algorithms (GA) and select the ones most suitable to the problem at hand
-*   perform a critical evaluation and interpretation of analysis and optimization results, including sensitivity analysis and exploration of performance, cost and risk tradeoffs
-*   be familiar with the basic concepts of multiobjective optimization, including the conditions for optimality and Pareto front computation techniques understand the concept of design for value and be familiar with ways to quantitatively assess the expected lifecycle cost of a new system or product
-*   sharpen their presentation skills, acquire critical reasoning with respect to the validity and fidelity of their MSDO models and experience the advantages and challenges of teamwork
+- learn how MSDO can support the product development process of complex,
+- multidisciplinary engineered systems
+- learn how to rationalize and quantify a system architecture or product design problem by selecting appropriate objective functions, design parameters and constraints
+- subdivide a complex system into smaller disciplinary models, manage their interfaces and reintegrate them into an overall system model
+- be able to use gradient-based numerical optimization algorithms, e.g. sequential quadratic programming (SQP) and various modern heuristic optimization techniques such as simulated annealing (SA) or genetic algorithms (GA) and select the ones most suitable to the problem at hand
+- perform a critical evaluation and interpretation of analysis and optimization results, including sensitivity analysis and exploration of performance, cost and risk tradeoffs
+- be familiar with the basic concepts of multiobjective optimization, including the conditions for optimality and Pareto front computation techniques understand the concept of design for value and be familiar with ways to quantitatively assess the expected lifecycle cost of a new system or product
+- sharpen their presentation skills, acquire critical reasoning with respect to the validity and fidelity of their MSDO models and experience the advantages and challenges of teamwork
 
-{{< anchor "Pedagogy" >}}{{< /anchor >}}Pedagogy
-------------------------------------------------
+## {{< anchor "Pedagogy" >}}{{< /anchor >}}Pedagogy
 
 Our goal is that students will acquire knowledge and skills in the principles, methods (techniques) and tools of multidisciplinary, computational design. To this end the course pedagogy will be using a number of activities to achieve the learning objectives. Figure 1 shows the different pedagogical instruments used in the MSDO course as the sides of an imaginary folded box. In order to understand the box, one needs to look at it from all sides.
 
-![Pedagogy_of_MSDO.jpg]({{< resource_file 04809309-af95-cb7a-690d-d9a378cf0310 >}})
+{{< resource 04809309-af95-cb7a-690d-d9a378cf0310 >}}
 
 Figure 1: Pedagogy of MSDO along with some specific examples.
 
@@ -116,60 +110,58 @@ Module 4: Implementation Issues and Applications L19-L24
 
 **Term Project**: This is central to the success of the course. Students form small teams with between two and three members (no individual projects!). They can choose between a number of sample projects provided by the faculty or pick a project based on their own research. The semester culminates with a final project presentation and writing a final report in the form of a conference article. Each group will select a multidisciplinary system to study throughout the semester. Examples include (but are not restricted to) an aircraft, a space system, an automobile, a communications network or a transportation system. The faculty will screen the project proposals during the first two weeks and offer advice in problem selection and scoping if necessary. The projects will parallel the lecture content. The overall aim is to teach general tools and methods in the lectures, while allowing students to apply these tools to a specific application that is aligned with their background and interests.
 
-{{< anchor "Detailed_Syllabus" >}}{{< /anchor >}}Detailed Syllabus
-------------------------------------------------------------------
+## {{< anchor "Detailed_Syllabus" >}}{{< /anchor >}}Detailed Syllabus
 
 _Module 1: Problem Formulation and Setup_
 
-1.  System characterization:
-    1.  Identification of objectives, design variables, constraints, subsystems
-    2.  System-level coupling and interactions
-    3.  Examples of MSDO in practice
-    4.  Visualization techniques in design optimization
-2.  Subsystem model development:
-    1.  Model partitioning and decomposition, interface control
-    2.  Collaborative Optimization, Bi-Level Formulations
-    3.  Subsystem model selection: fidelity versus expense
-    4.  Model and simulation development and validation
+1. System characterization:
+    1. Identification of objectives, design variables, constraints, subsystems
+    2. System-level coupling and interactions
+    3. Examples of MSDO in practice
+    4. Visualization techniques in design optimization
+2. Subsystem model development:
+    1. Model partitioning and decomposition, interface control
+    2. Collaborative Optimization, Bi-Level Formulations
+    3. Subsystem model selection: fidelity versus expense
+    4. Model and simulation development and validation
 
 _Module 2: Optimization and Search Methods_
 
-3.  Optimization and exploration techniques:
-    1.  Review of linear and nonlinear programming
-    2.  Heuristic techniques: genetic algorithms simulated annealing, Tabu search
-    3.  Design Space Exploration: Design of Experiments (DOE): Full factorial search, parameter study, Taguchi/orthogonal arrays, latin hypercubes
-    4.  Mixed integer programming (application to hub spoke / network problems)
-4.  Sensitivity and post-optimality analysis:
-    1.  Jacobian matrix, Hessian, finite differences
-    2.  Adjoint methods and Lagrange multipliers
+1. Optimization and exploration techniques:
+    1. Review of linear and nonlinear programming
+    2. Heuristic techniques: genetic algorithms simulated annealing, Tabu search
+    3. Design Space Exploration: Design of Experiments (DOE): Full factorial search, parameter study, Taguchi/orthogonal arrays, latin hypercubes
+    4. Mixed integer programming (application to hub spoke / network problems)
+2. Sensitivity and post-optimality analysis:
+    1. Jacobian matrix, Hessian, finite differences
+    2. Adjoint methods and Lagrange multipliers
 
 _Module 3: Multiobjective and Stochastic Challenges_
 
-5.  Multiobjective optimization:
-    1.  Weighted sum optimization
-    2.  Weak and strong dominance
-    3.  Pareto front computation
-    4.  Goal programming and isoperformance
-    5.  Physical Programming
-    6.  Multiattribute Utility Theory
-6.  Introduction to robust design
-    1.  Monte-Carlo Sampling
-    2.  Design under uncertainty
-    3.  Reliability analysis, Taguchi methods
+1. Multiobjective optimization:
+    1. Weighted sum optimization
+    2. Weak and strong dominance
+    3. Pareto front computation
+    4. Goal programming and isoperformance
+    5. Physical Programming
+    6. Multiattribute Utility Theory
+2. Introduction to robust design
+    1. Monte-Carlo Sampling
+    2. Design under uncertainty
+    3. Reliability analysis, Taguchi methods
 
 _Module 4: Implementation Issues and Real World Applications_
 
-7.  System assessment and extensions:
-    1.  What is optimality?
-    2.  Design for value: including lifecycle costing
-    3.  Optimizing product families and platforms
-8.  Implementation issues:
-    1.  Model reduction
-    2.  Approximation techniques: response surfaces, kriging, neural networks
-    3.  Concurrent design
+1. System assessment and extensions:
+    1. What is optimality?
+    2. Design for value: including lifecycle costing
+    3. Optimizing product families and platforms
+2. Implementation issues:
+    1. Model reduction
+    2. Approximation techniques: response surfaces, kriging, neural networks
+    3. Concurrent design
 
-{{< anchor "Physical_and_Computational" >}}{{< /anchor >}}Physical and Computational Infrastructure
----------------------------------------------------------------------------------------------------
+## {{< anchor "Physical_and_Computational" >}}{{< /anchor >}}Physical and Computational Infrastructure
 
 For their projects and homework assignments, the students will be free to choose the platform and software of their choice. They can code their simulation modules in MATLAB®, Excel (Visual Basic®), Java™, FORTRAN or C/C++, among others. In terms of using optimization software, we recommend the following alternatives:
 
@@ -181,8 +173,7 @@ Other options include: **MATLAB Optimization Toolbox,** and **Excel Solver**. It
 
 The use of commercial disciplinary codes such as MSC/NASTRAN for structural modeling, Pro/ENGINEER®, SolidWorks® for Computer Aided Design or IBM CPLEX for the solution of linear programs is also a possibility for your projects. There will be less emphasis on this point, however, since proficiency in these tools takes a long time to acquire and many of these codes have steep learning curves. Hence, the emphasis of the course is rather on learning the process of setting up, solving and interpreting multidisciplinary problems, rather than on creating physical models of very high fidelity as would be expected in an industry environment.
 
-{{< anchor "Grading" >}}{{< /anchor >}}Grading
-----------------------------------------------
+## {{< anchor "Grading" >}}{{< /anchor >}}Grading
 
 There will be two types of assignments in the course:
 
@@ -198,63 +189,32 @@ The assignments are due bi-weekly. Typically an assignment is handed out on a We
 
 The class project is our main means of assessing whether you can learn the material at a deeper level and apply it to a graduate level research project. There are two major deliverables here towards the end of the term:
 
-1.  Project Presentation (ca. 15-20 minutes including Q&A)
-2.  Final Report in the format of a journal or conference article
+1. Project Presentation (ca. 15-20 minutes including Q&A)
+2. Final Report in the format of a journal or conference article
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 PERCENTAGES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Assignments 1-5 (10% each)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 50%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Project presentation
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 20%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Final project report
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 20%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Active participation/attendance
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 10%
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< tableclose >}}
-
-{{< anchor "Appendix_A" >}}{{< /anchor >}}Appendix A
-----------------------------------------------------
+## {{< anchor "Appendix_A" >}}{{< /anchor >}}Appendix A
 
 This appendix discusses the aspects of the MSDO course:
 

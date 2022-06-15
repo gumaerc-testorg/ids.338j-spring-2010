@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of recitation topics and recitation
+  notes prepared by the course teaching assistant.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ RECITATION NOTES
 Optimization method selection
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_77s10_rec05))
+({{% resource_link 3befee76-115f-09e9-9ecc-2bb1471db782 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ Optimization method selection
 How to break "robust" optimizers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_77s10_rec06))
+({{% resource_link f67f430d-a9d1-bc6c-018c-e661c4a717b9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ How to break "robust" optimizers
 Mixed-integer continuous problems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_77s10_rec07))
+({{% resource_link e0afbb0f-d153-3dde-16e6-368264134bf7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ Mixed-integer continuous problems
 Scaling and approximation methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_77s10_rec08))
+({{% resource_link 626f48ab-c5a0-0685-8d2a-4f2b20250614 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Scaling and approximation methods
 Multiobjective optimization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_77s10_rec09))
+({{% resource_link 36665fd1-1dd3-660b-8752-915be62b3ee5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

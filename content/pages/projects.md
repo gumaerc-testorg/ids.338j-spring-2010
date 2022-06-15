@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines for the course project, the project
+  oral presentation grading rubric, and examples of student work.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -142,34 +144,34 @@ All student work is courtesy of anonymous MIT students unless otherwise indicate
 
 ### Wind Turbine Blade Design Optimization
 
-Paper ([PDF]({{< baseurl >}}/resources/mitesd_77s10_paper01))
+Paper ({{% resource_link bad11a75-47e8-d6c9-9cab-7c52f5062efb "PDF" %}})
 
-Presentation ([PDF - 2.1MB]({{< baseurl >}}/resources/mitesd_77s10_pres01))
+Presentation ({{% resource_link 6dfd1744-2eb8-dcf4-05b3-2e80d748b8df "PDF - 2.1MB" %}})
 
 ### Supersonic Business Jet: Design Space Exploration and Optimization
 
 Josiah VanderMey and Hassan Bukhari
 
-Paper ([PDF]({{< baseurl >}}/resources/mitesd_77s10_paper03))
+Paper ({{% resource_link 06c8fb26-4f04-5ed1-c8b3-13d97b41c89a "PDF" %}})
 
-Presentation ([PDF]({{< baseurl >}}/resources/mitesd_77s10_pres03))
+Presentation ({{% resource_link bb234109-01ab-3465-2b0e-5008177040ea "PDF" %}})
 
 ### Barge Design Optimization
 
-Paper ([PDF - 1.3MB]({{< baseurl >}}/resources/mitesd_77s10_paper04))
+Paper ({{% resource_link d298ca6c-01a4-9928-541c-8b726de6bccc "PDF - 1.3MB" %}})
 
-Presentation ([PDF]({{< baseurl >}}/resources/mitesd_77s10_pres04))
+Presentation ({{% resource_link 0eb38247-a2d6-c660-865d-8b0005a0693c "PDF" %}})
 
 ### Space Shuttle External Tank Optimization
 
-Paper ([PDF]({{< baseurl >}}/resources/mitesd_77s10_paper05))
+Paper ({{% resource_link 8e81fb44-1aac-0e1e-c0bc-b11d29e6bc46 "PDF" %}})
 
-Presentation ([PDF - 1.5MB]({{< baseurl >}}/resources/mitesd_77s10_pres05))
+Presentation ({{% resource_link 45cf86f9-d523-8087-517f-1de106bb46a3 "PDF - 1.5MB" %}})
 
   
 
 ### Airbag-Based Crew Impact Attenuation Systems for the Orion Vehicle – Single Airbag Optimization
 
-Paper ([PDF]({{< baseurl >}}/resources/mitesd_77s10_paper06))
+Paper ({{% resource_link b9b5c787-5a77-8f08-cd32-795a09621edd "PDF" %}})
 
-Presentation ([PDF]({{< baseurl >}}/resources/mitesd_77s10_pres06))
+Presentation ({{% resource_link 25f068cd-9e97-18bd-514b-a71d25eb39b2 "PDF" %}})

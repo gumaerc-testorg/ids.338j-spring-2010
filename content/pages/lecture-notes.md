@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture slides from the course and the schedule
+  of lecture topics.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ LECTURE NOTES
 Introduction to multidisciplinary system design optimization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.9MB]({{< baseurl >}}/resources/mitesd_77s10_lec01))
+({{% resource_link a0929d6d-3b7a-813a-2f2d-64e8a83257d5 "PDF - 1.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ Introduction to multidisciplinary system design optimization
 Problem formulation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.9MB]({{< baseurl >}}/resources/mitesd_77s10_lec02))
+({{% resource_link 9d0d5b99-0009-aca2-975c-464d83fa9fee "PDF - 1.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ Problem formulation
 Modeling and simulation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.3MB]({{< baseurl >}}/resources/mitesd_77s10_lec03))
+({{% resource_link de056c84-7191-aec6-8a1c-2cde83760c52 "PDF - 3.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ Modeling and simulation
 Problem decomposition
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.2MB]({{< baseurl >}}/resources/mitesd_77s10_lec04))
+({{% resource_link 4e9c2dfc-b4fd-70ec-d5c5-ad1e0d086cf7 "PDF - 2.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Problem decomposition
 Design space exploration
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mitesd_77s10_lec05))
+({{% resource_link b386f92f-8d55-1c28-a423-b1f679d297e1 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +109,7 @@ Visualization
 Numerical optimization I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.3MB]({{< baseurl >}}/resources/mitesd_77s10_lec07))
+({{% resource_link 05a3b2ac-fee9-c690-3984-904149aeda21 "PDF - 2.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +121,7 @@ Numerical optimization I
 Numerical optimization II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mitesd_77s10_lec08))
+({{% resource_link 3745f01d-bdd2-a70f-9c38-67d945f431d7 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +133,7 @@ Numerical optimization II
 Sensitivity analysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.1MB]({{< baseurl >}}/resources/mitesd_77s10_lec09))
+({{% resource_link ce1a087c-39eb-e629-ff93-ed57686ada0a "PDF - 2.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,7 +145,7 @@ Sensitivity analysis
 Simulated annealing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_77s10_lec10))
+({{% resource_link 7a08877e-1c5c-ba30-b44d-b0ad6b95e4d7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +157,7 @@ Simulated annealing
 Genetic algorithms I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.3MB]({{< baseurl >}}/resources/mitesd_77s10_lec11))
+({{% resource_link ec409068-95b3-94a1-3ae2-688e0d12960b "PDF - 2.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -167,7 +169,7 @@ Genetic algorithms I
 Genetic algorithms II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_77s10_lec12))  
+({{% resource_link d0885b23-9822-4e55-de43-77e0aa003e93 "PDF" %}})  
  
 {{< tdclose >}}
 
@@ -180,7 +182,7 @@ Genetic algorithms II
 Goal programming – isoperformance
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 8.2MB]({{< baseurl >}}/resources/mitesd_77s10_lec13))
+({{% resource_link 7db59907-c288-5b55-74a4-493bcae0c67b "PDF - 8.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +194,7 @@ Goal programming – isoperformance
 Multi-objective optimization I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.3MB]({{< baseurl >}}/resources/mitesd_77s10_lec14))
+({{% resource_link f091204b-62ab-5bb4-6825-829fdedc66cd "PDF - 2.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +206,7 @@ Multi-objective optimization I
 Multi-objective optimization II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.1MB]({{< baseurl >}}/resources/mitesd_77s10_lec15))
+({{% resource_link 4f69df56-d257-3e66-f7c0-841d062b6a3a "PDF - 2.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +218,7 @@ Multi-objective optimization II
 Post-optimality analysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/mitesd_77s10_lec16))
+({{% resource_link cb66cdb4-7f9e-f1cc-1a86-8e9991acc398 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -228,7 +230,7 @@ Post-optimality analysis
 Approximation methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.4MB]({{< baseurl >}}/resources/mitesd_77s10_lec17)) (Select slides courtesy of Theresa Robinson and Andrew March. Used with permission.)
+({{% resource_link 474c6381-5514-580f-d70b-43a5582a69d3 "PDF - 2.4MB" %}}) (Select slides courtesy of Theresa Robinson and Andrew March. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +246,7 @@ Robust design
 Guest lecturer: Dan Frey
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_77s10_lec18)) (Courtesy of Dan Frey. Used with permission.)
+({{% resource_link 46d58f37-ebd4-0bf9-dbb7-08436eadaf18 "PDF" %}}) (Courtesy of Dan Frey. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,7 +258,7 @@ Guest lecturer: Dan Frey
 Design for value
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.7MB]({{< baseurl >}}/resources/mitesd_77s10_lec19))
+({{% resource_link 6b2cfeb0-1c32-0b2d-85f2-e4c5dd67dd55 "PDF - 2.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -287,7 +289,7 @@ Guest lecturer: Michel-Alexandre Cardin
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_77s10_lec21)) (Courtesy of Michel-Alexandre Cardin. Used with permission.)
+({{% resource_link 106548dd-4838-4f8d-6e24-be77eed704e7 "PDF" %}}) (Courtesy of Michel-Alexandre Cardin. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -312,7 +314,7 @@ Roots and future of MDO
 Course Summary
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mitesd_77s10_lec23))
+({{% resource_link b49c06c8-f422-40a4-dba1-c6f400321b0e "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

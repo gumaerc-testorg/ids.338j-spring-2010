@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/9d0d5b990009aca2975c464d83fa9fee_MITESD_77S10_lec02.pdf
+file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/9d0d5b990009aca2975c464d83fa9fee_MITESD_77S10_lec02.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

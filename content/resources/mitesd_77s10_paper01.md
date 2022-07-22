@@ -6,6 +6,7 @@ file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITESD_77S10_paper01.pdf
 uid: bad11a75-47e8-d6c9-9cab-7c52f5062efb
 ---
 This resource contains information related to wind turbine blade design optimization.
-

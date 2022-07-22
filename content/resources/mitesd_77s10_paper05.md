@@ -6,6 +6,7 @@ file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITESD_77S10_paper05.pdf
 uid: 8e81fb44-1aac-0e1e-c0bc-b11d29e6bc46
 ---
 This resource provides information related to space shuttle external tank optimization.
-

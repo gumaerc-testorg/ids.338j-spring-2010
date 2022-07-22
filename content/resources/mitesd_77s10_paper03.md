@@ -5,6 +5,7 @@ file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITESD_77S10_paper03.pdf
 uid: 06c8fb26-4f04-5ed1-c8b3-13d97b41c89a
 ---
 This resource provides information related to supersonic business jet.
-

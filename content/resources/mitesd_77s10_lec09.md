@@ -5,6 +5,7 @@ file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITESD_77S10_lec09.pdf
 uid: ce1a087c-39eb-e629-ff93-ed57686ada0a
 ---
 This resource contains information related to sensitivity analysis.
-

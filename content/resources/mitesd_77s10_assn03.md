@@ -5,6 +5,7 @@ file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITESD_77S10_assn03.pdf
 uid: 3046fc88-12f9-21c8-244b-389fb5da7fda
 ---
 This resource contains information related to sensitivity analysis.
-

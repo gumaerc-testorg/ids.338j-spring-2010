@@ -6,6 +6,7 @@ file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITESD_77S10_rec08.pdf
 uid: 626f48ab-c5a0-0685-8d2a-4f2b20250614
 ---
 This resource contains information related to scaling and approximation methods
-

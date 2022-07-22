@@ -5,6 +5,7 @@ file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITESD_77S10_rec06.pdf
 uid: f67f430d-a9d1-bc6c-018c-e661c4a717b9
 ---
 This resource contains information related to how to break "robust" optimizers.
-

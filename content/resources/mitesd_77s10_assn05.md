@@ -6,6 +6,7 @@ file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITESD_77S10_assn05.pdf
 uid: 2dcaf124-af69-9682-d244-9fb44cc381d7
 ---
 This resource provides information related to revisit of bridge design from A4.
-

@@ -6,6 +6,7 @@ file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITESD_77S10_lec22.pdf
 uid: 1ed1c713-1c28-cf2a-3c65-4f374b7e72dc
 ---
 This resource contains information related to engineering design process context.
-

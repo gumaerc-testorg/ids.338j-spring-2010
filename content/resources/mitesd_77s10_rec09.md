@@ -5,6 +5,7 @@ file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITESD_77S10_rec09.pdf
 uid: 36665fd1-1dd3-660b-8752-915be62b3ee5
 ---
 This resource contains information related to  multiobjective optimization.
-

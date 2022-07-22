@@ -5,6 +5,7 @@ file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITESD_77S10_paper04.pdf
 uid: d298ca6c-01a4-9928-541c-8b726de6bccc
 ---
 This resource provides information related to barge design optimization.
-

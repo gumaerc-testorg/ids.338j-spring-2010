@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to MDO framework, subsystem
   model development and coupling.
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/b49c06c8f42240a4dba1c6f400321b0e_MITESD_77S10_lec23.pdf
+file_size: 1321115
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

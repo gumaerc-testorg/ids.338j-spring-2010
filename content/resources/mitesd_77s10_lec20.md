@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to MDO.
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/86756aa54a2aee9208c5eef6c4aa23d4_MITESD_77S10_lec20.pdf
+file_size: 2388868
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

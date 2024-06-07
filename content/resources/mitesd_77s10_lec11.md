@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to genetic algorithms I.
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/ec40906895b394a13ae2688e0d12960b_MITESD_77S10_lec11.pdf
+file_size: 1715883
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

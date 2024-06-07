@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information related to supersonic business jet.
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/bb23410901ab34652b0e5008177040ea_MITESD_77S10_pres03.pdf
+file_size: 851463
 file_type: application/pdf
 learning_resource_types:
 - Projects

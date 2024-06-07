@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information related to design for flexibility.
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/106548dd48384f8d6e24be77eed704e7_MITESD_77S10_lec21.pdf
+file_size: 700926
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

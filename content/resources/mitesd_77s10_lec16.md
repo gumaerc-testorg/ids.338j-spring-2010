@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information related to post-optimality analysis.
-file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/cb66cdb47f9ef1cc1a868e9991acc398_MITESD_77S10_lec16.pdf
+file: /ol-ocw-studio-app/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/cb66cdb47f9ef1cc1a868e9991acc398_MITESD_77S10_lec16.pdf
 file_size: 1208199
 file_type: application/pdf
 learning_resource_types:

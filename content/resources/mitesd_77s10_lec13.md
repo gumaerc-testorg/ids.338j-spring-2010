@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to perfiormance outline, goal
   seeking, goal programming and isoperformance.
-file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/7db59907c2885b5574a4493bcae0c67b_MITESD_77S10_lec13.pdf
+file: /ol-ocw-studio-app/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/7db59907c2885b5574a4493bcae0c67b_MITESD_77S10_lec13.pdf
 file_size: 3505460
 file_type: application/pdf
 learning_resource_types:

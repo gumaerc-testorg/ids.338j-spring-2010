@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to robust design.
-file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/46d58f37ebd40bf9dbb708436eadaf18_MITESD_77S10_lec18.pdf
+file: /ol-ocw-studio-app/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/46d58f37ebd40bf9dbb708436eadaf18_MITESD_77S10_lec18.pdf
 file_size: 733626
 file_type: application/pdf
 learning_resource_types:

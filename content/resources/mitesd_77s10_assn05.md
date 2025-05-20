@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information related to revisit of bridge design
   from A4.
-file: /ol-ocw-studio-app/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/2dcaf124af699682d2449fb44cc381d7_MITESD_77S10_assn05.pdf
+file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/2dcaf124af699682d2449fb44cc381d7_MITESD_77S10_assn05.pdf
 file_size: 79258
 file_type: application/pdf
 learning_resource_types:

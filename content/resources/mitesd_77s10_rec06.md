@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to how to break "robust" optimizers.
-file: /ol-ocw-studio-app/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/f67f430da9d1bc6c018ce661c4a717b9_MITESD_77S10_rec06.pdf
+file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/f67f430da9d1bc6c018ce661c4a717b9_MITESD_77S10_rec06.pdf
 file_size: 139483
 file_type: application/pdf
 learning_resource_types:

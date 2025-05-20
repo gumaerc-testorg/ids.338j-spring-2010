@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/9d0d5b990009aca2975c464d83fa9fee_MITESD_77S10_lec02.pdf
+file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/9d0d5b990009aca2975c464d83fa9fee_MITESD_77S10_lec02.pdf
 file_size: 1985372
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information related to airbag-based crew impact
   attenuation systems.
-file: /ol-ocw-studio-app/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/b9b5c7875a778f08cd32795a09621edd_MITESD_77S10_paper06.pdf
+file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/b9b5c7875a778f08cd32795a09621edd_MITESD_77S10_paper06.pdf
 file_size: 598607
 file_type: application/pdf
 learning_resource_types:

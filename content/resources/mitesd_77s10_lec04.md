@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource provides information related to decomposition and coupling. '
-file: /ol-ocw-studio-app/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/4e9c2dfcb4fd70ecd5c5ad1e0d086cf7_MITESD_77S10_lec04.pdf
+file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/4e9c2dfcb4fd70ecd5c5ad1e0d086cf7_MITESD_77S10_lec04.pdf
 file_size: 2219245
 file_type: application/pdf
 learning_resource_types:

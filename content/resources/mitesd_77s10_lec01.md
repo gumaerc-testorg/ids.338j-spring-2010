@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to subsystems, and MDO.
-file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/a0929d6d3b7a813a2f2d64e8a83257d5_MITESD_77S10_lec01.pdf
+file: /ol-ocw-studio-app/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/a0929d6d3b7a813a2f2d64e8a83257d5_MITESD_77S10_lec01.pdf
 file_size: 2018587
 file_type: application/pdf
 learning_resource_types:

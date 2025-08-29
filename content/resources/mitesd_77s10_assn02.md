@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to design of experiments.
-file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/c5e7b6d655ff77a54a3d8055b0fadb5d_MITESD_77S10_assn02.pdf
+file: /ol-ocw-studio-app/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/c5e7b6d655ff77a54a3d8055b0fadb5d_MITESD_77S10_assn02.pdf
 file_size: 62907
 file_type: application/pdf
 learning_resource_types:

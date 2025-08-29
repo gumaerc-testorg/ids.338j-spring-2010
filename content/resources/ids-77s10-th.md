@@ -4,7 +4,7 @@ description: Framework of the many different components of multidisciplinary sys
   design optimization (MSDO). This course addresses many of these different areas
   of MSDO, with a special focus on tools and algorithms used to address MSDO problems.
   (Figure courtesy of Prof. Olivier de Weck.)
-file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/351ec5d7e380b6c99cfd2d7be6afd5fa_ids-77s10-th.jpg
+file: /ol-ocw-studio-app/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/351ec5d7e380b6c99cfd2d7be6afd5fa_ids-77s10-th.jpg
 file_size: 13431
 file_type: image/jpeg
 image_metadata:
